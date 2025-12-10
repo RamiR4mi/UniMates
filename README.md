@@ -8,6 +8,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Google Gemini](https://img.shields.io/badge/Gemini_AI-Powered-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 
 <br/>
 
@@ -211,6 +212,7 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 | `npm run dev` | Start development server with hot reload |
 | `npm run build` | Build for production |
 | `npm run preview` | Preview production build locally |
+<<<<<<< HEAD
 | `npm test` | Run unit tests with Vitest |
 
 ---
@@ -273,6 +275,8 @@ describe('calculateMatchScore', () => {
  Test Files  1 passed (1)
       Tests  1 passed (1)
 ```
+=======
+>>>>>>> 32cb048b345c89d15b5cbf222331cc23af96b1ba
 
 ---
 
